@@ -1,0 +1,112 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 16px;
+}
+
+body{
+  background-image: url("assets/images/fondo.jpg");
+  background-size: 60%;
+
+}
+
+header p{
+  background-color: #0067a3;
+  height: 60px;
+  font-size: 2em;
+  color: #fff;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: bold;
+  padding-top: 10px;
+
+
+}
+
+.content-div{
+  padding: 20px;
+}
+
+section {
+  margin: 80px;
+
+}
+
+.text-content{
+  overflow:hidden;
+
+}
+.content{
+  background-color: #fff;
+  border: 1px solid black;
+
+
+}
+main{
+  margin:  80px;
+}
+
+.content-form{
+  display: inline-block;
+  border: 2px solid blue;
+  width: 30%;
+   height: 300px;
+  background-color: #fff;
+  vertical-align: top;
+  border-radius: 5%;
+ padding: 40px;
+
+
+}
+
+
+
+.contador{
+  display: inline-block;
+}
+
+ .btnHability {
+  background-color: #1da1f2;
+  padding: 10px 15px;
+  color: #fff;
+  border-radius: 20%;
+  font-weight: bold;
+  outline: none;
+
+}
+.btn{
+  background-color: #d9d0d0;
+  color: #b5b5b5;
+  /* border: none; */
+  padding: 10px 15px;
+  border-radius: 20%;
+  font-weight: bold;
+  outline: none;
+}
+
+textarea{
+  width: 90%;
+  resize: none;
+  overflow: hidden;
+  height: 30%;
+
+}
+
+#save, #number-cont{
+
+    margin-top: 30px;
+
+}
+
+#number-cont{
+  width: 60px;
+}
+
+#container p{
+  height: 30px;
+  border: 1px solid blue;
+  font-family: cursive;
+
+}
