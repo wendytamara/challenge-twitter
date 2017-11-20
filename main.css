@@ -52,13 +52,10 @@ main{
   display: inline-block;
   border: 2px solid blue;
   width: 30%;
-   height: 300px;
   background-color: #fff;
   vertical-align: top;
   border-radius: 5%;
  padding: 40px;
-
-
 }
 
 
