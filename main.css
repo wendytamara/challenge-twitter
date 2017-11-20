@@ -55,10 +55,8 @@ main{
   background-color: #fff;
   vertical-align: top;
   border-radius: 5%;
- padding: 40px;
+ padding: 40px
 }
-
-
 
 .contador{
   display: inline-block;
